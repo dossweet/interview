@@ -1,8 +1,10 @@
  # 一个23届双非本985硕应届毕业生的校招之路
+ 
+ #### 本仓库内PDF文件为本人的校招面经，欢迎star! 后续会将面经整理到博客网站里https://dossweet.github.io/learn-with-dossweet/ 
 
 &nbsp;
 
-嗨~大家好，我是团子！一个23届双非本985硕的应届毕业生（本仓库内PDF文件为本人的校招面经，欢迎star! 后续会将面经整理到博客网站里https://dossweet.github.io/learn-with-dossweet/ ）。
+嗨~大家好，我是团子！一个23届双非本985硕的应届毕业生。
 
 &nbsp;
 
